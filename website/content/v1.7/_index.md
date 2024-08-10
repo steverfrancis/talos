@@ -17,7 +17,7 @@ menu: main
 Welcome to the Talos documentation.
 If you are just getting familiar with Talos, we recommend starting here:
 
-- [What is Talos]({{< relref "introduction/what-is-talos" >}}): a quick description of Talos
+- [What is Talos](../introduction/what-is-talos): a quick description of Talos
 - [Quickstart]({{< relref "introduction/quickstart" >}}): the fastest way to get a Talos cluster up and running
 - [Getting Started]({{< relref "introduction/getting-started" >}}): a long-form, guided tour of getting a full Talos cluster deployed
 
